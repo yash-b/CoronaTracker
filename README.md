@@ -1,5 +1,6 @@
 # CORONA-TRACKER
 
+### Live Site coming soon.
 <!-- ### [Live Site](https://yash-b.github.io/CoronaTracker) -->
 
 ## Introduction
@@ -13,5 +14,5 @@ This is a code repository for the Covid Tracker website. It shows live statistic
 
 API used: https://covid19.mathdro.id/api
 
-Setup:
+### Setup:
 - run ```npm i && npm start```
