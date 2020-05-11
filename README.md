@@ -1,14 +1,15 @@
-# COVID-19 Tracker
-![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
+# CORONA-TRACKER
 
-### [Live Site](https://covid19statswebsite.netlify.com/)
+<!-- ### [Live Site](https://yash-b.github.io/CoronaTracker) -->
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
+This is a code repository for the Covid Tracker website. It shows live statistics of the infected, recovered, and fatal cases caused by the Covid-19 Virus. Furthermore, data visualization has also been covered on the webpage.
 
-In this video, we will create a full COVID-19 Tracker. We're going to use React, Charts.JS and Material UI.
-
-By the end of this video, you will have a strong understanding of React's workflow and the use of hooks.
+## Contributors
+- [Yash Bhambhani](https://www.github.com/yash-b)
+- [Alfonso Figueroa](https://www.github.com/alfonsf1)
+- [Frank Mirando](https://www.github.com/mirandofrank)
+- [Abdulmalek Almuhana](https://www.github.com/malikbinn)
 
 API used: https://covid19.mathdro.id/api
 
