@@ -1,6 +1,6 @@
 {
   "homepage": "http://yash-b.github.io/CoronaTracker",
-  "name": "corona_app",
+  "name": "corona_tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
