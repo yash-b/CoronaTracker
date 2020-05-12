@@ -18,7 +18,7 @@ const Info = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
           <CardContent>
             <Typography color="textSecondary" gutterBottom>
               Infected
-              <img className={styles.card_icon} src='/images/icon_1.png' alt="infected" />
+              <img className={styles.card_icon} src='/CoronaTracker/images/icon_1.png' alt="infected" />
             </Typography>
             <Typography variant="h5" component="h2">
               <CountUp start={0} end={confirmed.value} duration={2.75} separator="," />
@@ -37,7 +37,7 @@ const Info = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
           <CardContent>
             <Typography color="textSecondary" gutterBottom>
               Recovered
-              <img className={styles.card_icon} src='/images/icon_2.png' alt="recovered" />
+              <img className={styles.card_icon} src='/CoronaTracker/images/icon_2.png' alt="recovered" />
             </Typography>
             <Typography variant="h5" component="h2">
               <CountUp start={0} end={recovered.value} duration={2.75} separator="," />
@@ -56,7 +56,7 @@ const Info = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
           <CardContent>
             <Typography color="textSecondary" gutterBottom>
               Deaths
-              <img className={styles.card_icon} src='/images/icon_3.png' alt="infected" />
+              <img className={styles.card_icon} src='/CoronaTracker/images/icon_3.png' alt="infected" />
             </Typography>
             <Typography variant="h5" component="h2">
               <CountUp start={0} end={deaths.value} duration={2.75} separator="," />
